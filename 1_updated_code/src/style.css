@@ -1,0 +1,30 @@
+.img-fluid.card-img-top {
+    padding-top: 10%;
+}
+.card-img-top {
+
+    width: 100%;
+
+}
+.card {
+
+    border: 1px solid aqua;
+    background: aliceblue;
+    margin-top: 2%;
+    
+
+    background: #f0f0f0;
+    
+    border: 1px solid azure;
+}
+.card-img-top {
+
+    height: 125px;
+
+}
+.card-text {
+
+    padding: 5%;
+    padding-top: 0%;
+
+}
